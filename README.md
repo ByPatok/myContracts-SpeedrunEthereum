@@ -53,7 +53,8 @@ Deployed on sepolia.
 │   ├── ExampleExternalContract.sol
 │   ├── Staker.sol
 ├── Challenge2-token-vendor
-│   ├── 
+│   ├── Vendor.sol
+│   ├── YourToken.sol
 ```
 
 
