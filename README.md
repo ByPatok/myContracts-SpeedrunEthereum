@@ -1,14 +1,17 @@
 ## **Speedrunethereum.com Quick Contracts**
 **⚠️ in development - NOT safe for mainnet ⚠️**
-*Please do NOT use this as answers for the challenges.*
+
+*Please do NOT use this as answers for the challenges.*  
 This is a project i'm using to learn solidity and hardhat.
 I'll be posting more 'original' repo's. 
 
-**Wanna help?**
-Contact me or post a discussion :)
-Twitter: [@devpatok](https://twitter.com/devpatok)
-LinkedIn: [leonardobri](https://www.linkedin.com/in/leonardobri/)
-Discord: patowtf
+**Wanna help?**  
+Contact me or post a discussion :)  
+
+Twitter: [@devpatok](https://twitter.com/devpatok)  
+LinkedIn: [leonardobri](https://www.linkedin.com/in/leonardobri/)  
+Discord: patowtf  
+
 *I'm looking for a team, if you are interested, please feel free to contact me.*
 ## Roadmap
 This is early development version. I am currently considering:
