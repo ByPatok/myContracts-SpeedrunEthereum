@@ -12,7 +12,7 @@ Discord: patowtf
 *I'm looking for a team, if you are interested, please feel free to contact me.*  
 
 ## How to
-*You can follow [speedrunethereum](https://www.speedrunethereum.com](https://speedrunethereum.com/) tutorial, it's just a resume*   
+*You can follow [speedrunethereum](https://www.speedrunethereum.com](https://speedrunethereum.com/)) tutorial, it's just a resume*   
 
 Clone or download the file you want into your contracts folder.  
 Install dependencies and run a local chain.  
