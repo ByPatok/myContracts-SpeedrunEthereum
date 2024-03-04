@@ -14,7 +14,7 @@ Discord: patowtf
 
 *I'm looking for a team, if you are interested, please feel free to contact me.*
 ## Roadmap
-03/03/2024 - Challenge 3 development started.
+03/03/2024 - Challenge 2 development started.
 
 - [x] Challenge 0 - [Done (Click to see demo)](https://simplenft-eth-challenge.vercel.app/).
 - [x] Challenge 1 - [Done (Click to see demo)](https://staking-challenge2-etherspeedrun.vercel.app/).
