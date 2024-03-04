@@ -31,12 +31,13 @@ After deploy the contract and start if you have the frontend.
     yarn start 
     
 ## Roadmap
-This is early development version. I am currently considering:
+Please relate bugs.  
+Deployed on sepolia.
 
 - [x] Challenge 0 - [Done (Click to see demo)](https://simplenft-eth-challenge.vercel.app/).
 - [x] Challenge 1 - [Done (Click to see demo)](https://staking-challenge2-etherspeedrun.vercel.app/).
-- [ ] Challenge 2 - In development.
-- [ ] Challenge 3 - Soon.
+- [x] Challenge 2 - [Done (Click to see demo)]([https://staking-challenge2-etherspeedrun.vercel.app](https://quest2-token-vendor.vercel.app/)).
+- [ ] Challenge 3 - Waiting for access.
 - [ ] Challenge 4 - Soon.
 - [ ] Challenge 5 - Soon.
 - [ ] Challenge 6 - Soon.
