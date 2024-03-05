@@ -37,7 +37,7 @@ Deployed on sepolia.
 - [x] Challenge 0 - [Done (Click to see demo)](https://simplenft-eth-challenge.vercel.app/).
 - [x] Challenge 1 - [Done (Click to see demo)](https://staking-challenge2-etherspeedrun.vercel.app/).
 - [x] Challenge 2 - [Done (Click to see demo)](https://quest2-token-vendor.vercel.app).
-- [ ] Challenge 3 - Waiting for access.
+- [ ] Challenge 3 - Starting development.
 - [ ] Challenge 4 - Soon.
 - [ ] Challenge 5 - Soon.
 - [ ] Challenge 6 - Soon.
