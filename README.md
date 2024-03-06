@@ -62,6 +62,8 @@ Deployed on sepolia.
 ├── Challenge2-token-vendor
 │   ├── Vendor.sol
 │   ├── YourToken.sol
+├── challenge-3-dice-game
+│   ├── RiggedRoll.sol
 ```
 
 
