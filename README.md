@@ -24,11 +24,17 @@ After deploy the contract and start if you have the frontend.
     git clone https://github.com/ByPatok/myContracts-SpeedrunEthereum
     yarn install
     
-   **Deploy and start**
+**Deploy and start**
 		
     yarn chain
     yarn deploy
     yarn start 
+
+**Test AND verify**
+
+    yarn test
+    yarn verify
+
     
 ## Roadmap
 Please relate bugs.  
