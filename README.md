@@ -44,9 +44,9 @@ Deployed on sepolia.
 - [x] Challenge 1 - [Done (Click to see demo)](https://staking-challenge2-etherspeedrun.vercel.app/).
 - [x] Challenge 2 - [Done (Click to see demo)](https://quest2-token-vendor.vercel.app).  
 🎉 **[Joined BuidlGuidl](https://app.buidlguidl.com/builders/0xC4de020Cfb94D5e7Da5536551da6cfE01Dce33Ec)** 🎉
-- [ ] Challenge 3 - [Done (Click to see demo)](https://quest3-rigged-dice.vercel.app/).  
-- [ ] Challenge 4 - Starting development.
-- [ ] Challenge 5 - Soon.
+- [x] Challenge 3 - [Done (Click to see demo)](https://quest3-rigged-dice.vercel.app/).  
+- [x] Challenge 4 - [Done (Click to see demo)](https://quest4-dex-swap.vercel.app/).  
+- [ ] Challenge 5 - In development.
 - [ ] Challenge 6 - Soon.
 - [ ] Challenge 7 - Soon.
 
@@ -62,6 +62,10 @@ Deployed on sepolia.
 ├── Challenge2-token-vendor
 │   ├── Vendor.sol
 │   ├── YourToken.sol
+├── challenge-3-dice-game
+│   ├── RiggedRoll.sol
+├── challenge-4-dex-swap
+│   ├── DEX.sol
 ```
 
 
