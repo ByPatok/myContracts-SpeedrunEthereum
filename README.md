@@ -1,5 +1,5 @@
 ## **Speedrunethereum.com Quick Contracts**
-**⚠️ in development - NOT safe for mainnet ⚠️**  
+**⚠️ In review (Done) - NOT safe for mainnet ⚠️**  
 *Please do NOT use this as answers for the challenges*  
 This is a project i'm using to learn solidity and hardhat. I'll be posting more 'original' repo's. 
 
@@ -47,8 +47,6 @@ Deployed on sepolia.
 - [x] Challenge 3 - [Done (Click to see demo)](https://quest3-rigged-dice.vercel.app/).  
 - [x] Challenge 4 - [Done (Click to see demo)](https://quest4-dex-swap.vercel.app/).  
 - [x] Challenge 5 - [Done (Click to see demo](https://quest5-statechannels.vercel.app/). 
-- [ ] Challenge 6 - In development.
-- [ ] Challenge 7 - Soon.
 
 
 
